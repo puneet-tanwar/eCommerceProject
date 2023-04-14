@@ -21,7 +21,7 @@ app.use("/users", userRoutes);
 app.use("/products", productRoute);
 app.use("/admin",adminRoutes);
 app.use("/cart",cartRoutes);
-
-app.listen(5000, (req,res)=>{
-    console.log("Server listening on localhost:5000");
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, (req,res)=>{
+    console.log("Server listening on localhost: ", PORT);
 })
