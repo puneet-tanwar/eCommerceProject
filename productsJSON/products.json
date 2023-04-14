@@ -1,0 +1,68 @@
+[
+    {
+      "ProductName": "Apple MacBook Air",
+      "ProductDescription": "The MacBook Air is Apple's most affordable laptop, offering a solid compromise between price and performance.",
+      "Price": 999,
+      "Tags": ["laptop", "apple", "macbook"],
+      "Seller": "Apple Inc."
+    },
+    {
+      "ProductName": "Samsung Galaxy S21",
+      "ProductDescription": "The Galaxy S21 is Samsung's latest flagship smartphone, featuring a stunning 6.2-inch AMOLED display, a powerful Snapdragon 888 processor, and a triple-camera setup.",
+      "Price": 799,
+      "Tags": ["smartphone", "samsung", "android"],
+      "Seller": "Samsung Electronics"
+    },
+    {
+      "ProductName": "Sony PlayStation 5",
+      "ProductDescription": "The PlayStation 5 is Sony's latest gaming console, featuring lightning-fast load times, stunning graphics, and an innovative new DualSense controller.",
+      "Price": 499,
+      "Tags": ["gaming", "playstation", "sony"],
+      "Seller": "Sony Corporation"
+    },
+    {
+      "ProductName": "LG OLED TV",
+      "ProductDescription": "The LG OLED TV is widely considered to be the best TV on the market, thanks to its stunning OLED display and innovative AI features.",
+      "Price": 1499,
+      "Tags": ["tv", "lg", "oled"],
+      "Seller": "LG Electronics"
+    },
+    {
+      "ProductName": "Amazon Echo",
+      "ProductDescription": "The Amazon Echo is a smart speaker that can play music, control smart home devices, and answer questions using Amazon's Alexa voice assistant.",
+      "Price": 99,
+      "Tags": ["smart speaker", "amazon", "alexa"],
+      "Seller": "Amazon.com, Inc."
+    },
+    {
+      "ProductName": "Dell XPS 13",
+      "ProductDescription": "The Dell XPS 13 is a premium ultrabook that offers a stunning 4K display, a powerful Intel Core i7 processor, and all-day battery life.",
+      "Price": 1299,
+      "Tags": ["laptop", "dell", "xps"],
+      "Seller": "Dell Technologies"
+    },
+    {
+      "ProductName": "Nike Air Max 270",
+      "ProductDescription": "The Nike Air Max 270 is a popular running shoe that features a lightweight design and a comfortable Air Max cushioning system.",
+      "Price": 150,
+      "Tags": ["sneakers", "nike", "running"],
+      "Seller": "Nike, Inc."
+    },
+    {
+      "ProductName": "Canon EOS R5",
+      "ProductDescription": "The Canon EOS R5 is a professional-grade mirrorless camera that features a 45-megapixel sensor, 8K video recording, and an advanced autofocus system.",
+      "Price": 3899,
+      "Tags": ["camera", "canon", "mirrorless"],
+      "Seller": "Canon Inc."
+    },
+    {
+      "ProductName": "Bose QuietComfort 35 II",
+      "ProductDescription": "The Bose QuietComfort 35 II is a popular noise-cancelling headphone that offers excellent sound quality and comfort.",
+      "Price": 299,
+      "Tags": ["headphones", "bose", "noise-cancelling"],
+      "Seller": "Bose Corporation"
+    },
+    {
+      "ProductName": "Google Pixel 5",
+      "ProductDescription": "The Google Pixel 5 is a popular Android smartphone
+  
